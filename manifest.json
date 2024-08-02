@@ -1,5 +1,8 @@
 {
-    "name": "HA Neoom integration",
-    "url": "https://github.com/sgabardi/HANeoom/",
-    "maintainer": "Stefan Gabardi"                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             
+  "domain": "neoom",
+  "name": "Neoom",
+  "documentation": "https://developer.neoom.com",
+  "dependencies": [],
+  "codeowners": ["Stefan Gabardi"],
+  "requirements": ["aiohttp"]
 }
